@@ -1,0 +1,5 @@
+name: UHCArcher
+version: 1.0
+main: com.archer.Main
+description: The Archer Plugin
+author: [FafMayo_, Ekinoxx]
